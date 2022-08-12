@@ -1,4 +1,4 @@
-# Juniper: A Handwritten Font
+# Juniper
 <p align="center">
 <img src="https://raw.githubusercontent.com/leojamesstrong/juniper-font/main/Juniper%20Font%20Card.png">
 </p>
