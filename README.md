@@ -3,5 +3,5 @@
 </p>
 .ttf and .otf files for Juniper Regular
 
-Background image of font card by [Eugene Golovesov](https://unsplash.com/@eugene_golovesov) on [Unsplash](https://unsplash.com/)
+Background image of font card by [Wyxina Tresse](https://unsplash.com/@wyxina) on [Unsplash](https://unsplash.com/)
   
