@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/leojamesstrong/juniper-font/main/Juniper%20Font%20Card.png">
+<img src="https://raw.githubusercontent.com/leojamesstrong/juniper-font/main/Font%20Card.png">
 </p>
 .ttf and .otf files for Juniper Regular
 
